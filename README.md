@@ -1,6 +1,6 @@
 # BikesCanada 🍁
 
-BikesCanada is a bike riding app that allows customers to book various types of bikes, from electric (EV) to mountain bikes and hybrids.
+BikesCanada is a bike-riding database created to improve analytical skills and learn advanced database concepts.
 
 ## Features
 
